@@ -47,11 +47,11 @@ Soft Skills: Asynchronous Communication | Critical Thinking | Time Management | 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[st-vin]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=st-vin&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[st-vin]&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=st-vin&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[st-vin]&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=st-vin&theme=radical)
 
 ---
 
